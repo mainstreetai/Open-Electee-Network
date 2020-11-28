@@ -1,0 +1,6 @@
+[submodule "third_parties/elections-api"]
+	path = third_parties/elections-api
+	url = https://github.com/aclu-national/elections-api.git
+[submodule "third_parties/people"]
+	path = third_parties/people
+	url = https://github.com/openstates/people.git
