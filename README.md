@@ -2,11 +2,11 @@
 
 The Open Electree Network makes connections between electees and geo locations, like state, county, city, zip code, and address.
 
-![district overlap](assets/overlapping.png)
-
 ### 🚧 API
 
 (in construction)
+
+![district overlap](assets/overlapping.png)
 
 ----
 
