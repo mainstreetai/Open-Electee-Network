@@ -3,6 +3,16 @@ The Open Electree Network makes connections between electees and geo locations, 
 
 ![district overlap](assets/overlapping.png)
 
+### API
+
+(in construction)
+
+### Datasets
+1. Congressional and State legistor district overlapping [link](https://github.com/mainstreetai/Open-Electee-Network/tree/main/data)
+
+This dataset contains U.S. Congress and State legislature memeber information, including geomapping data and how they overlap with each other. 
+
+2. (more to come)
 
 ### Applications of this network
 1. Know your representatives
