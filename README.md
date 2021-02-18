@@ -3,18 +3,22 @@ The Open Electree Network makes connections between electees and geo locations, 
 
 ![district overlap](assets/overlapping.png)
 
-### API
+### 🚧 API
 
 (in construction)
 
-### Datasets
+----
+
+### 📊 Datasets
 **1. Congressional and State legistor district** [link](https://github.com/mainstreetai/Open-Electee-Network/tree/main/data)
 
 This dataset contains U.S. Congress and State legislature memeber information, including geomapping data and how they overlap with each other. 
 
 2. (more to come)
 
-### Applications of this network
+----
+
+### 🗣️ Applications of this network
 **1. Know your representatives**
 
 To get your voice heard, you need to know who represent you and whom you can elect.
@@ -23,6 +27,8 @@ To get your voice heard, you need to know who represent you and whom you can ele
 
 You can build coalition of state legislators within targeted House Members' Congressional Districts. 
 
-### Acknowledgement
+----
+
+### ❤️ Acknowledgement
 - open states: https://openstates.org/data/
 - aclu elections api: https://github.com/aclu-national/elections-api
