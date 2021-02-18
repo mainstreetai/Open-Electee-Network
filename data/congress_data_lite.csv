@@ -1,0 +1,589 @@
+aclu_id,official_name,party,district,state,legislator_type,congressional_district
+aclu/elections-api/congress_legislator:1012,Peter Welch,Democrat,0,VT,rep,5000
+aclu/elections-api/congress_legislator:1000,"Donald S. Beyer, Jr.",Democrat,8,VA,rep,5108
+aclu/elections-api/congress_legislator:11604,Abigail Davis Spanberger,Democrat,7,VA,rep,5107
+aclu/elections-api/congress_legislator:11607,Elaine G. Luria,Democrat,2,VA,rep,5102
+aclu/elections-api/congress_legislator:11606,Denver Riggleman,Republican,5,VA,rep,5105
+aclu/elections-api/congress_legislator:997,Barbara Comstock,Republican,10,VA,rep,5110
+aclu/elections-api/congress_legislator:1002,H. Morgan Griffith,Republican,9,VA,rep,5109
+aclu/elections-api/congress_legislator:996,A. Donald McEachin,Democrat,4,VA,rep,5104
+aclu/elections-api/congress_legislator:11683,Bob Good,Republican,5,VA,rep,5105
+aclu/elections-api/congress_legislator:1004,"Robert C. ""Bobby"" Scott",Democrat,3,VA,rep,5103
+aclu/elections-api/congress_legislator:11605,Ben Cline,Republican,6,VA,rep,5106
+aclu/elections-api/congress_legislator:1006,Scott Taylor,Republican,2,VA,rep,5102
+aclu/elections-api/congress_legislator:998,Bob Goodlatte,Republican,6,VA,rep,5106
+aclu/elections-api/congress_legislator:1005,Robert J. Wittman,Republican,1,VA,rep,5101
+aclu/elections-api/congress_legislator:1007,"Thomas A. Garrett, Jr.",Republican,5,VA,rep,5105
+aclu/elections-api/congress_legislator:1001,Gerald E. Connolly,Democrat,11,VA,rep,5111
+aclu/elections-api/congress_legislator:11608,Jennifer Wexton,Democrat,10,VA,rep,5110
+aclu/elections-api/congress_legislator:999,Dave Brat,Republican,7,VA,rep,5107
+aclu/elections-api/congress_legislator:941,Kristi L. Noem,Republican,0,SD,rep,4600
+aclu/elections-api/congress_legislator:11589,Dusty Johnson,Republican,0,SD,rep,4600
+aclu/elections-api/congress_legislator:932,Jeff Duncan,Republican,3,SC,rep,4503
+aclu/elections-api/congress_legislator:11587,Joe Cunningham,Democrat,1,SC,rep,4501
+aclu/elections-api/congress_legislator:936,Ralph Norman,Republican,5,SC,rep,4505
+aclu/elections-api/congress_legislator:938,Tom Rice,Republican,7,SC,rep,4507
+aclu/elections-api/congress_legislator:935,Mark Sanford,Republican,1,SC,rep,4501
+aclu/elections-api/congress_legislator:11588,William R. Timmons IV,Republican,4,SC,rep,4504
+aclu/elections-api/congress_legislator:939,Trey Gowdy,Republican,4,SC,rep,4504
+aclu/elections-api/congress_legislator:931,James E. Clyburn,Democrat,6,SC,rep,4506
+aclu/elections-api/congress_legislator:11672,Nancy Mace,Republican,1,SC,rep,4501
+aclu/elections-api/congress_legislator:933,Joe Wilson,Republican,2,SC,rep,4502
+aclu/elections-api/congress_legislator:11682,Burgess Owens,Republican,4,UT,rep,4904
+aclu/elections-api/congress_legislator:1049,John R. Curtis,Republican,3,UT,rep,4903
+aclu/elections-api/congress_legislator:11602,Ben McAdams,Democrat,4,UT,rep,4904
+aclu/elections-api/congress_legislator:11681,Blake D. Moore,Republican,1,UT,rep,4901
+aclu/elections-api/congress_legislator:995,Rob Bishop,Republican,1,UT,rep,4901
+aclu/elections-api/congress_legislator:992,Mia B. Love,Republican,4,UT,rep,4904
+aclu/elections-api/congress_legislator:991,Chris Stewart,Republican,2,UT,rep,4902
+aclu/elections-api/congress_legislator:1009,Stacey E. Plaskett,Democrat,0,VI,rep,7800
+aclu/elections-api/congress_legislator:11638,Andrew S. Clyde,Republican,9,GA,rep,1309
+aclu/elections-api/congress_legislator:657,Jody B. Hice,Republican,10,GA,rep,1310
+aclu/elections-api/congress_legislator:649,A. Drew Ferguson IV,Republican,3,GA,rep,1303
+aclu/elections-api/congress_legislator:655,Doug Collins,Republican,9,GA,rep,1309
+aclu/elections-api/congress_legislator:650,Austin Scott,Republican,8,GA,rep,1308
+aclu/elections-api/congress_legislator:11639,Carolyn Bourdeaux,Democrat,7,GA,rep,1307
+aclu/elections-api/congress_legislator:660,Rick W. Allen,Republican,12,GA,rep,1312
+aclu/elections-api/congress_legislator:11642,Nikema Williams,Democrat,5,GA,rep,1305
+aclu/elections-api/congress_legislator:11621,,Democrat,5,GA,rep,1305
+aclu/elections-api/congress_legislator:659,John Lewis,Democrat,5,GA,rep,1305
+aclu/elections-api/congress_legislator:663,Tom Graves,Republican,14,GA,rep,1314
+aclu/elections-api/congress_legislator:661,Rob Woodall,Republican,7,GA,rep,1307
+aclu/elections-api/congress_legislator:11533,Lucy McBath,Democrat,6,GA,rep,1306
+aclu/elections-api/congress_legislator:1044,Karen C. Handel,Republican,6,GA,rep,1306
+aclu/elections-api/congress_legislator:652,"Earl L. ""Buddy"" Carter",Republican,1,GA,rep,1301
+aclu/elections-api/congress_legislator:11641,Marjorie Taylor Greene,Republican,14,GA,rep,1314
+aclu/elections-api/congress_legislator:656,"Henry C. ""Hank"" Johnson, Jr.",Democrat,4,GA,rep,1304
+aclu/elections-api/congress_legislator:654,David Scott,Democrat,13,GA,rep,1313
+aclu/elections-api/congress_legislator:651,Barry Loudermilk,Republican,11,GA,rep,1311
+aclu/elections-api/congress_legislator:662,"Sanford D. Bishop, Jr.",Democrat,2,GA,rep,1302
+aclu/elections-api/congress_legislator:792,Bennie G. Thompson,Democrat,2,MS,rep,2802
+aclu/elections-api/congress_legislator:795,Steven M. Palazzo,Republican,4,MS,rep,2804
+aclu/elections-api/congress_legislator:11561,Michael Guest,Republican,3,MS,rep,2803
+aclu/elections-api/congress_legislator:796,Trent Kelly,Republican,1,MS,rep,2801
+aclu/elections-api/congress_legislator:793,Gregg Harper,Republican,3,MS,rep,2803
+aclu/elections-api/congress_legislator:1047,Greg Gianforte,Republican,0,MT,rep,3000
+aclu/elections-api/congress_legislator:11659,Matthew M. Rosendale,Republican,0,MT,rep,3000
+aclu/elections-api/congress_legislator:11658,Cori Bush,Democrat,1,MO,rep,2901
+aclu/elections-api/congress_legislator:781,Ann Wagner,Republican,2,MO,rep,2902
+aclu/elections-api/congress_legislator:782,Billy Long,Republican,7,MO,rep,2907
+aclu/elections-api/congress_legislator:790,Wm. Lacy Clay,Democrat,1,MO,rep,2901
+aclu/elections-api/congress_legislator:786,Jason Smith,Republican,8,MO,rep,2908
+aclu/elections-api/congress_legislator:785,Emanuel Cleaver,Democrat,5,MO,rep,2905
+aclu/elections-api/congress_legislator:783,Blaine Luetkemeyer,Republican,3,MO,rep,2903
+aclu/elections-api/congress_legislator:789,Vicky Hartzler,Republican,4,MO,rep,2904
+aclu/elections-api/congress_legislator:788,Sam Graves,Republican,6,MO,rep,2906
+aclu/elections-api/congress_legislator:737,Michael E. Capuano,Democrat,7,MA,rep,2507
+aclu/elections-api/congress_legislator:11548,Lori Trahan,Democrat,3,MA,rep,2503
+aclu/elections-api/congress_legislator:742,William R. Keating,Democrat,9,MA,rep,2509
+aclu/elections-api/congress_legislator:738,Niki Tsongas,Democrat,3,MA,rep,2503
+aclu/elections-api/congress_legislator:11547,Ayanna Pressley,Democrat,7,MA,rep,2507
+aclu/elections-api/congress_legislator:741,Stephen F. Lynch,Democrat,8,MA,rep,2508
+aclu/elections-api/congress_legislator:739,Richard E. Neal,Democrat,1,MA,rep,2501
+aclu/elections-api/congress_legislator:735,Joseph P. Kennedy III,Democrat,4,MA,rep,2504
+aclu/elections-api/congress_legislator:11654,Jake Auchincloss,Democrat,4,MA,rep,2504
+aclu/elections-api/congress_legislator:734,James P. McGovern,Democrat,2,MA,rep,2502
+aclu/elections-api/congress_legislator:736,Katherine M. Clark,Democrat,5,MA,rep,2505
+aclu/elections-api/congress_legislator:740,Seth Moulton,Democrat,6,MA,rep,2506
+aclu/elections-api/congress_legislator:517,Don Young,Republican,0,AK,rep,0200
+aclu/elections-api/congress_legislator:716,Brett Guthrie,Republican,2,KY,rep,2102
+aclu/elections-api/congress_legislator:719,James Comer,Republican,1,KY,rep,2101
+aclu/elections-api/congress_legislator:723,Thomas Massie,Republican,4,KY,rep,2104
+aclu/elections-api/congress_legislator:718,Harold Rogers,Republican,5,KY,rep,2105
+aclu/elections-api/congress_legislator:717,Andy Barr,Republican,6,KY,rep,2106
+aclu/elections-api/congress_legislator:720,John A. Yarmuth,Democrat,3,KY,rep,2103
+aclu/elections-api/congress_legislator:526,Robert B. Aderholt,Republican,4,AL,rep,0104
+aclu/elections-api/congress_legislator:11623,Jerry L. Carl,Republican,1,AL,rep,0101
+aclu/elections-api/congress_legislator:527,Terri Sewell,Democrat,7,AL,rep,0107
+aclu/elections-api/congress_legislator:522,Martha Roby,Republican,2,AL,rep,0102
+aclu/elections-api/congress_legislator:521,Gary J. Palmer,Republican,6,AL,rep,0106
+aclu/elections-api/congress_legislator:523,Mike Rogers,Republican,3,AL,rep,0103
+aclu/elections-api/congress_legislator:524,Mo Brooks,Republican,5,AL,rep,0105
+aclu/elections-api/congress_legislator:11622,Barry Moore,Republican,2,AL,rep,0102
+aclu/elections-api/congress_legislator:519,Bradley Byrne,Republican,1,AL,rep,0101
+aclu/elections-api/congress_legislator:11534,Michael F. Q. San Nicolas,Democrat,0,GU,rep,6600
+aclu/elections-api/congress_legislator:664,Madeleine Z. Bordallo,Democrat,0,GU,rep,6600
+aclu/elections-api/congress_legislator:11563,Chris Pappas,Democrat,1,NH,rep,3301
+aclu/elections-api/congress_legislator:822,Ann Kuster,Democrat,2,NH,rep,3302
+aclu/elections-api/congress_legislator:823,Carol Shea-Porter,Democrat,1,NH,rep,3301
+aclu/elections-api/congress_legislator:773,Betty McCollum,Democrat,4,MN,rep,2704
+aclu/elections-api/congress_legislator:774,Erik Paulsen,Republican,3,MN,rep,2703
+aclu/elections-api/congress_legislator:11657,Michelle Fischbach,Republican,7,MN,rep,2707
+aclu/elections-api/congress_legislator:775,Jason Lewis,Republican,2,MN,rep,2702
+aclu/elections-api/congress_legislator:780,Tom Emmer,Republican,6,MN,rep,2706
+aclu/elections-api/congress_legislator:776,Keith Ellison,Democrat,5,MN,rep,2705
+aclu/elections-api/congress_legislator:777,Richard M. Nolan,Democrat,8,MN,rep,2708
+aclu/elections-api/congress_legislator:11557,Ilhan Omar,Democrat,5,MN,rep,2705
+aclu/elections-api/congress_legislator:11556,Dean Phillips,Democrat,3,MN,rep,2703
+aclu/elections-api/congress_legislator:1045,Collin C. Peterson,Democrat,7,MN,rep,2707
+aclu/elections-api/congress_legislator:778,Timothy J. Walz,Democrat,1,MN,rep,2701
+aclu/elections-api/congress_legislator:11555,Angie Craig,Democrat,2,MN,rep,2702
+aclu/elections-api/congress_legislator:11559,Pete Stauber,Republican,8,MN,rep,2708
+aclu/elections-api/congress_legislator:11558,Jim Hagedorn,Republican,1,MN,rep,2701
+aclu/elections-api/congress_legislator:11552,Elissa Slotkin,Democrat,8,MI,rep,2608
+aclu/elections-api/congress_legislator:11554,Rashida Tlaib,Democrat,13,MI,rep,2613
+aclu/elections-api/congress_legislator:11551,Andy Levin,Democrat,9,MI,rep,2609
+aclu/elections-api/congress_legislator:770,Sander M. Levin,Democrat,9,MI,rep,2609
+aclu/elections-api/congress_legislator:768,Mike Bishop,Republican,8,MI,rep,2608
+aclu/elections-api/congress_legislator:11612,Brenda Jones,Democrat,13,MI,rep,2613
+aclu/elections-api/congress_legislator:11553,Haley M. Stevens,Democrat,11,MI,rep,2611
+aclu/elections-api/congress_legislator:11655,Lisa C. McClain,Republican,10,MI,rep,2610
+aclu/elections-api/congress_legislator:759,Daniel T. Kildee,Democrat,5,MI,rep,2605
+aclu/elections-api/congress_legislator:766,John R. Moolenaar,Republican,4,MI,rep,2604
+aclu/elections-api/congress_legislator:765,Jack Bergman,Republican,1,MI,rep,2601
+aclu/elections-api/congress_legislator:11656,Peter Meijer,Republican,3,MI,rep,2603
+aclu/elections-api/congress_legislator:757,Bill Huizenga,Republican,2,MI,rep,2602
+aclu/elections-api/congress_legislator:761,Debbie Dingell,Democrat,12,MI,rep,2612
+aclu/elections-api/congress_legislator:767,Justin Amash,Libertarian,3,MI,rep,2603
+aclu/elections-api/congress_legislator:769,Paul Mitchell,Republican,10,MI,rep,2610
+aclu/elections-api/congress_legislator:760,David A. Trott,Republican,11,MI,rep,2611
+aclu/elections-api/congress_legislator:763,Fred Upton,Republican,6,MI,rep,2606
+aclu/elections-api/congress_legislator:771,Tim Walberg,Republican,7,MI,rep,2607
+aclu/elections-api/congress_legislator:758,Brenda L. Lawrence,Democrat,14,MI,rep,2614
+aclu/elections-api/congress_legislator:899,Markwayne Mullin,Republican,2,OK,rep,4002
+aclu/elections-api/congress_legislator:896,Frank D. Lucas,Republican,3,OK,rep,4003
+aclu/elections-api/congress_legislator:901,Tom Cole,Republican,4,OK,rep,4004
+aclu/elections-api/congress_legislator:11579,Kevin Hern,Republican,1,OK,rep,4001
+aclu/elections-api/congress_legislator:900,Steve Russell,Republican,5,OK,rep,4005
+aclu/elections-api/congress_legislator:11578,Kendra S. Horn,Democrat,5,OK,rep,4005
+aclu/elections-api/congress_legislator:11670,Stephanie I. Bice,Republican,5,OK,rep,4005
+aclu/elections-api/congress_legislator:11651,Victoria Spartz,Republican,5,IN,rep,1805
+aclu/elections-api/congress_legislator:705,Peter J. Visclosky,Democrat,1,IN,rep,1801
+aclu/elections-api/congress_legislator:699,André Carson,Democrat,7,IN,rep,1807
+aclu/elections-api/congress_legislator:700,Jackie Walorski,Republican,2,IN,rep,1802
+aclu/elections-api/congress_legislator:701,Jim Banks,Republican,3,IN,rep,1803
+aclu/elections-api/congress_legislator:706,Susan W. Brooks,Republican,5,IN,rep,1805
+aclu/elections-api/congress_legislator:11543,James R. Baird,Republican,4,IN,rep,1804
+aclu/elections-api/congress_legislator:703,Larry Bucshon,Republican,8,IN,rep,1808
+aclu/elections-api/congress_legislator:11542,Greg Pence,Republican,6,IN,rep,1806
+aclu/elections-api/congress_legislator:11650,Frank J. Mrvan,Democrat,1,IN,rep,1801
+aclu/elections-api/congress_legislator:709,Trey Hollingsworth,Republican,9,IN,rep,1809
+aclu/elections-api/congress_legislator:707,Todd Rokita,Republican,4,IN,rep,1804
+aclu/elections-api/congress_legislator:704,Luke Messer,Republican,6,IN,rep,1806
+aclu/elections-api/congress_legislator:11524,Jason Crow,Democrat,6,CO,rep,0806
+aclu/elections-api/congress_legislator:603,Ed Perlmutter,Democrat,7,CO,rep,0807
+aclu/elections-api/congress_legislator:608,Scott R. Tipton,Republican,3,CO,rep,0803
+aclu/elections-api/congress_legislator:601,Diana DeGette,Democrat,1,CO,rep,0801
+aclu/elections-api/congress_legislator:607,Mike Coffman,Republican,6,CO,rep,0806
+aclu/elections-api/congress_legislator:11525,Joe Neguse,Democrat,2,CO,rep,0802
+aclu/elections-api/congress_legislator:602,Doug Lamborn,Republican,5,CO,rep,0805
+aclu/elections-api/congress_legislator:605,Ken Buck,Republican,4,CO,rep,0804
+aclu/elections-api/congress_legislator:604,Jared Polis,Democrat,2,CO,rep,0802
+aclu/elections-api/congress_legislator:11632,Lauren Boebert,Republican,3,CO,rep,0803
+aclu/elections-api/congress_legislator:584,Mimi Walters,Republican,45,CA,rep,0645
+aclu/elections-api/congress_legislator:547,Ami Bera,Democrat,7,CA,rep,0607
+aclu/elections-api/congress_legislator:583,Mike Thompson,Democrat,5,CA,rep,0605
+aclu/elections-api/congress_legislator:599,Zoe Lofgren,Democrat,19,CA,rep,0619
+aclu/elections-api/congress_legislator:596,Ted Lieu,Democrat,33,CA,rep,0633
+aclu/elections-api/congress_legislator:587,Norma J. Torres,Democrat,35,CA,rep,0635
+aclu/elections-api/congress_legislator:550,Brad Sherman,Democrat,30,CA,rep,0630
+aclu/elections-api/congress_legislator:11518,Harley Rouda,Democrat,48,CA,rep,0648
+aclu/elections-api/congress_legislator:570,John Garamendi,Democrat,3,CA,rep,0603
+aclu/elections-api/congress_legislator:598,Tony Cárdenas,Democrat,29,CA,rep,0629
+aclu/elections-api/congress_legislator:558,Duncan Hunter,Republican,50,CA,rep,0650
+aclu/elections-api/congress_legislator:563,Jackie Speier,Democrat,14,CA,rep,0614
+aclu/elections-api/congress_legislator:568,Jimmy Gomez,Democrat,34,CA,rep,0634
+aclu/elections-api/congress_legislator:11630,Young Kim,Republican,39,CA,rep,0639
+aclu/elections-api/congress_legislator:545,Adam B. Schiff,Democrat,28,CA,rep,0628
+aclu/elections-api/congress_legislator:580,Mark DeSaulnier,Democrat,11,CA,rep,0611
+aclu/elections-api/congress_legislator:548,Anna G. Eshoo,Democrat,18,CA,rep,0618
+aclu/elections-api/congress_legislator:11617,Mike Garcia,Republican,25,CA,rep,0625
+aclu/elections-api/congress_legislator:575,Karen Bass,Democrat,37,CA,rep,0637
+aclu/elections-api/congress_legislator:556,Doris O. Matsui,Democrat,6,CA,rep,0606
+aclu/elections-api/congress_legislator:11627,Jay Obernolte,Republican,8,CA,rep,0608
+aclu/elections-api/congress_legislator:573,Julia Brownley,Democrat,26,CA,rep,0626
+aclu/elections-api/congress_legislator:553,David G. Valadao,Republican,21,CA,rep,0621
+aclu/elections-api/congress_legislator:576,Ken Calvert,Republican,42,CA,rep,0642
+aclu/elections-api/congress_legislator:585,Nancy Pelosi,Democrat,12,CA,rep,0612
+aclu/elections-api/congress_legislator:590,Raul Ruiz,Democrat,36,CA,rep,0636
+aclu/elections-api/congress_legislator:591,Ro Khanna,Democrat,17,CA,rep,0617
+aclu/elections-api/congress_legislator:572,Judy Chu,Democrat,27,CA,rep,0627
+aclu/elections-api/congress_legislator:578,Linda T. Sánchez,Democrat,38,CA,rep,0638
+aclu/elections-api/congress_legislator:554,Devin Nunes,Republican,22,CA,rep,0622
+aclu/elections-api/congress_legislator:561,Grace F. Napolitano,Democrat,32,CA,rep,0632
+aclu/elections-api/congress_legislator:566,Jerry McNerney,Democrat,9,CA,rep,0609
+aclu/elections-api/congress_legislator:11523,TJ Cox,Democrat,21,CA,rep,0621
+aclu/elections-api/congress_legislator:581,Mark Takano,Democrat,41,CA,rep,0641
+aclu/elections-api/congress_legislator:597,Tom McClintock,Republican,4,CA,rep,0604
+aclu/elections-api/congress_legislator:11517,"Gilbert Ray Cisneros, Jr.",Democrat,39,CA,rep,0639
+aclu/elections-api/congress_legislator:552,Darrell Issa,Republican,50,CA,rep,0650
+aclu/elections-api/congress_legislator:567,Jim Costa,Democrat,16,CA,rep,0616
+aclu/elections-api/congress_legislator:562,J. Luis Correa,Democrat,46,CA,rep,0646
+aclu/elections-api/congress_legislator:557,Doug LaMalfa,Republican,1,CA,rep,0601
+aclu/elections-api/congress_legislator:559,Edward R. Royce,Republican,39,CA,rep,0639
+aclu/elections-api/congress_legislator:11521,Katie Porter,Democrat,45,CA,rep,0645
+aclu/elections-api/congress_legislator:595,Susan A. Davis,Democrat,53,CA,rep,0653
+aclu/elections-api/congress_legislator:582,Maxine Waters,Democrat,43,CA,rep,0643
+aclu/elections-api/congress_legislator:592,Salud O. Carbajal,Democrat,24,CA,rep,0624
+aclu/elections-api/congress_legislator:560,Eric Swalwell,Democrat,15,CA,rep,0615
+aclu/elections-api/congress_legislator:577,Kevin McCarthy,Republican,23,CA,rep,0623
+aclu/elections-api/congress_legislator:546,Alan S. Lowenthal,Democrat,47,CA,rep,0647
+aclu/elections-api/congress_legislator:588,Paul Cook,Republican,8,CA,rep,0608
+aclu/elections-api/congress_legislator:11520,Katie Hill,Democrat,25,CA,rep,0625
+aclu/elections-api/congress_legislator:564,Jared Huffman,Democrat,2,CA,rep,0602
+aclu/elections-api/congress_legislator:579,Lucille Roybal-Allard,Democrat,40,CA,rep,0640
+aclu/elections-api/congress_legislator:571,Juan Vargas,Democrat,51,CA,rep,0651
+aclu/elections-api/congress_legislator:594,Stephen Knight,Republican,25,CA,rep,0625
+aclu/elections-api/congress_legislator:11522,Mike Levin,Democrat,49,CA,rep,0649
+aclu/elections-api/congress_legislator:11519,Josh Harder,Democrat,10,CA,rep,0610
+aclu/elections-api/congress_legislator:549,Barbara Lee,Democrat,13,CA,rep,0613
+aclu/elections-api/congress_legislator:589,Pete Aguilar,Democrat,31,CA,rep,0631
+aclu/elections-api/congress_legislator:565,Jeff Denham,Republican,10,CA,rep,0610
+aclu/elections-api/congress_legislator:569,Jimmy Panetta,Democrat,20,CA,rep,0620
+aclu/elections-api/congress_legislator:11628,Michelle Steel,Republican,48,CA,rep,0648
+aclu/elections-api/congress_legislator:551,Dana Rohrabacher,Republican,48,CA,rep,0648
+aclu/elections-api/congress_legislator:586,Nanette Diaz Barragán,Democrat,44,CA,rep,0644
+aclu/elections-api/congress_legislator:593,Scott H. Peters,Democrat,52,CA,rep,0652
+aclu/elections-api/congress_legislator:11629,Sara Jacobs,Democrat,53,CA,rep,0653
+aclu/elections-api/congress_legislator:11537,Cynthia Axne,Democrat,3,IA,rep,1903
+aclu/elections-api/congress_legislator:11647,Randy Feenstra,Republican,4,IA,rep,1904
+aclu/elections-api/congress_legislator:11536,Abby Finkenauer,Democrat,1,IA,rep,1901
+aclu/elections-api/congress_legislator:11646,Mariannette Miller-Meeks,Republican,2,IA,rep,1902
+aclu/elections-api/congress_legislator:673,Rod Blum,Republican,1,IA,rep,1901
+aclu/elections-api/congress_legislator:671,David Young,Republican,3,IA,rep,1903
+aclu/elections-api/congress_legislator:11645,Ashley Hinson,Republican,1,IA,rep,1901
+aclu/elections-api/congress_legislator:670,David Loebsack,Democrat,2,IA,rep,1902
+aclu/elections-api/congress_legislator:674,Steve King,Republican,4,IA,rep,1904
+aclu/elections-api/congress_legislator:615,Rosa L. DeLauro,Democrat,3,CT,rep,0903
+aclu/elections-api/congress_legislator:613,John B. Larson,Democrat,1,CT,rep,0901
+aclu/elections-api/congress_legislator:611,James A. Himes,Democrat,4,CT,rep,0904
+aclu/elections-api/congress_legislator:610,Elizabeth H. Esty,Democrat,5,CT,rep,0905
+aclu/elections-api/congress_legislator:612,Joe Courtney,Democrat,2,CT,rep,0902
+aclu/elections-api/congress_legislator:11526,Jahana Hayes,Democrat,5,CT,rep,0905
+aclu/elections-api/congress_legislator:637,Lois Frankel,Democrat,21,FL,rep,1221
+aclu/elections-api/congress_legislator:647,Val Butler Demings,Democrat,10,FL,rep,1210
+aclu/elections-api/congress_legislator:11531,Ross Spano,Republican,15,FL,rep,1215
+aclu/elections-api/congress_legislator:627,Daniel Webster,Republican,11,FL,rep,1211
+aclu/elections-api/congress_legislator:643,Stephanie N. Murphy,Democrat,7,FL,rep,1207
+aclu/elections-api/congress_legislator:648,Vern Buchanan,Republican,16,FL,rep,1216
+aclu/elections-api/congress_legislator:620,"Al Lawson, Jr.",Democrat,5,FL,rep,1205
+aclu/elections-api/congress_legislator:639,Mario Diaz-Balart,Republican,25,FL,rep,1225
+aclu/elections-api/congress_legislator:11636,Kat Cammack,Republican,3,FL,rep,1203
+aclu/elections-api/congress_legislator:644,Ted S. Yoho,Republican,3,FL,rep,1203
+aclu/elections-api/congress_legislator:624,Brian J. Mast,Republican,18,FL,rep,1218
+aclu/elections-api/congress_legislator:11532,W. Gregory Steube,Republican,17,FL,rep,1217
+aclu/elections-api/congress_legislator:633,Gus M. Bilirakis,Republican,12,FL,rep,1212
+aclu/elections-api/congress_legislator:642,Ron DeSantis,Republican,6,FL,rep,1206
+aclu/elections-api/congress_legislator:625,Carlos Curbelo,Republican,26,FL,rep,1226
+aclu/elections-api/congress_legislator:11529,Michael Waltz,Republican,6,FL,rep,1206
+aclu/elections-api/congress_legislator:636,Kathy Castor,Democrat,14,FL,rep,1214
+aclu/elections-api/congress_legislator:640,Matt Gaetz,Republican,1,FL,rep,1201
+aclu/elections-api/congress_legislator:646,Thomas J. Rooney,Republican,17,FL,rep,1217
+aclu/elections-api/congress_legislator:634,Ileana Ros-Lehtinen,Republican,27,FL,rep,1227
+aclu/elections-api/congress_legislator:645,Theodore E. Deutch,Democrat,22,FL,rep,1222
+aclu/elections-api/congress_legislator:11635,Carlos A. Gimenez,Republican,26,FL,rep,1226
+aclu/elections-api/congress_legislator:11633,Byron Donalds,Republican,19,FL,rep,1219
+aclu/elections-api/congress_legislator:11637,Maria Elvira Salazar,Republican,27,FL,rep,1227
+aclu/elections-api/congress_legislator:626,Charlie Crist,Democrat,13,FL,rep,1213
+aclu/elections-api/congress_legislator:623,Bill Posey,Republican,8,FL,rep,1208
+aclu/elections-api/congress_legislator:629,Debbie Wasserman Schultz,Democrat,23,FL,rep,1223
+aclu/elections-api/congress_legislator:632,Frederica S. Wilson,Democrat,24,FL,rep,1224
+aclu/elections-api/congress_legislator:11527,Debbie Mucarsel-Powell,Democrat,26,FL,rep,1226
+aclu/elections-api/congress_legislator:11528,Donna E. Shalala,Democrat,27,FL,rep,1227
+aclu/elections-api/congress_legislator:641,Neal P. Dunn,Republican,2,FL,rep,1202
+aclu/elections-api/congress_legislator:621,Alcee L. Hastings,Democrat,20,FL,rep,1220
+aclu/elections-api/congress_legislator:630,Dennis A. Ross,Republican,15,FL,rep,1215
+aclu/elections-api/congress_legislator:631,Francis Rooney,Republican,19,FL,rep,1219
+aclu/elections-api/congress_legislator:635,John H. Rutherford,Republican,4,FL,rep,1204
+aclu/elections-api/congress_legislator:628,Darren Soto,Democrat,9,FL,rep,1209
+aclu/elections-api/congress_legislator:11634,C. Scott Franklin,Republican,15,FL,rep,1215
+aclu/elections-api/congress_legislator:1035,Alexander Mooney,Republican,2,WV,rep,5402
+aclu/elections-api/congress_legislator:1037,Evan H. Jenkins,Republican,3,WV,rep,5403
+aclu/elections-api/congress_legislator:11611,Carol D. Miller,Republican,3,WV,rep,5403
+aclu/elections-api/congress_legislator:1036,David B. McKinley,Republican,1,WV,rep,5401
+aclu/elections-api/congress_legislator:928,James R. Langevin,Democrat,2,RI,rep,4402
+aclu/elections-api/congress_legislator:927,David N. Cicilline,Democrat,1,RI,rep,4401
+aclu/elections-api/congress_legislator:1041,Liz Cheney,Republican,0,WY,rep,5600
+aclu/elections-api/congress_legislator:11512,Michael Cloud,Republican,27,TX,rep,4827
+aclu/elections-api/congress_legislator:970,K. Michael Conaway,Republican,11,TX,rep,4811
+aclu/elections-api/congress_legislator:962,Jeb Hensarling,Republican,5,TX,rep,4805
+aclu/elections-api/congress_legislator:971,Kay Granger,Republican,12,TX,rep,4812
+aclu/elections-api/congress_legislator:969,John Ratcliffe,Republican,4,TX,rep,4804
+aclu/elections-api/congress_legislator:961,Henry Cuellar,Democrat,28,TX,rep,4828
+aclu/elections-api/congress_legislator:981,Pete Olson,Republican,22,TX,rep,4822
+aclu/elections-api/congress_legislator:11680,Troy E. Nehls,Republican,22,TX,rep,4822
+aclu/elections-api/congress_legislator:980,Michael T. McCaul,Republican,10,TX,rep,4810
+aclu/elections-api/congress_legislator:984,Roger Williams,Republican,25,TX,rep,4825
+aclu/elections-api/congress_legislator:983,"Randy K. Weber, Sr.",Republican,14,TX,rep,4814
+aclu/elections-api/congress_legislator:972,Kenny Marchant,Republican,24,TX,rep,4824
+aclu/elections-api/congress_legislator:11596,Lance Gooden,Republican,5,TX,rep,4805
+aclu/elections-api/congress_legislator:957,Brian Babin,Republican,36,TX,rep,4836
+aclu/elections-api/congress_legislator:11600,Van Taylor,Republican,3,TX,rep,4803
+aclu/elections-api/congress_legislator:988,Ted Poe,Republican,2,TX,rep,4802
+aclu/elections-api/congress_legislator:975,Lloyd Doggett,Democrat,35,TX,rep,4835
+aclu/elections-api/congress_legislator:11599,Sylvia R. Garcia,Democrat,29,TX,rep,4829
+aclu/elections-api/congress_legislator:963,Joaquin Castro,Democrat,20,TX,rep,4820
+aclu/elections-api/congress_legislator:966,John R. Carter,Republican,31,TX,rep,4831
+aclu/elections-api/congress_legislator:11679,Ronny Jackson,Republican,13,TX,rep,4813
+aclu/elections-api/congress_legislator:11601,Veronica Escobar,Democrat,16,TX,rep,4816
+aclu/elections-api/congress_legislator:956,Bill Flores,Republican,17,TX,rep,4817
+aclu/elections-api/congress_legislator:973,Kevin Brady,Republican,8,TX,rep,4808
+aclu/elections-api/congress_legislator:954,Al Green,Democrat,9,TX,rep,4809
+aclu/elections-api/congress_legislator:11598,Ron Wright,Republican,6,TX,rep,4806
+aclu/elections-api/congress_legislator:11676,Beth Van Duyne,Republican,24,TX,rep,4824
+aclu/elections-api/congress_legislator:11595,Dan Crenshaw,Republican,2,TX,rep,4802
+aclu/elections-api/congress_legislator:986,Sheila Jackson Lee,Democrat,18,TX,rep,4818
+aclu/elections-api/congress_legislator:965,Joe Barton,Republican,6,TX,rep,4806
+aclu/elections-api/congress_legislator:11675,August Pfluger,Republican,11,TX,rep,4811
+aclu/elections-api/congress_legislator:964,Jodey C. Arrington,Republican,19,TX,rep,4819
+aclu/elections-api/congress_legislator:955,Beto O’Rourke,Democrat,16,TX,rep,4816
+aclu/elections-api/congress_legislator:11677,Tony Gonzales,Republican,23,TX,rep,4823
+aclu/elections-api/congress_legislator:974,Lamar Smith,Republican,21,TX,rep,4821
+aclu/elections-api/congress_legislator:11597,Lizzie Fletcher,Democrat,7,TX,rep,4807
+aclu/elections-api/congress_legislator:958,Eddie Bernice Johnson,Democrat,30,TX,rep,4830
+aclu/elections-api/congress_legislator:959,Filemon Vela,Democrat,34,TX,rep,4834
+aclu/elections-api/congress_legislator:978,Marc A. Veasey,Democrat,33,TX,rep,4833
+aclu/elections-api/congress_legislator:968,John Abney Culberson,Republican,7,TX,rep,4807
+aclu/elections-api/congress_legislator:979,Michael C. Burgess,Republican,26,TX,rep,4826
+aclu/elections-api/congress_legislator:982,Pete Sessions,Republican,17,TX,rep,4817
+aclu/elections-api/congress_legislator:989,Vicente Gonzalez,Democrat,15,TX,rep,4815
+aclu/elections-api/congress_legislator:976,Louie Gohmert,Republican,1,TX,rep,4801
+aclu/elections-api/congress_legislator:11593,Chip Roy,Republican,21,TX,rep,4821
+aclu/elections-api/congress_legislator:11594,Colin Z. Allred,Democrat,32,TX,rep,4832
+aclu/elections-api/congress_legislator:990,Will Hurd,Republican,23,TX,rep,4823
+aclu/elections-api/congress_legislator:960,Gene Green,Democrat,29,TX,rep,4829
+aclu/elections-api/congress_legislator:985,Sam Johnson,Republican,3,TX,rep,4803
+aclu/elections-api/congress_legislator:11678,Pat Fallon,Republican,4,TX,rep,4804
+aclu/elections-api/congress_legislator:977,Mac Thornberry,Republican,13,TX,rep,4813
+aclu/elections-api/congress_legislator:926,Jenniffer González-Colón,Republican,0,PR,rep,7200
+aclu/elections-api/congress_legislator:11586,Susan Wild,Democrat,7,PA,rep,4207
+aclu/elections-api/congress_legislator:11580,Chrissy Houlahan,Democrat,6,PA,rep,4206
+aclu/elections-api/congress_legislator:918,Michael F. Doyle,Democrat,18,PA,rep,4218
+aclu/elections-api/congress_legislator:11615,Fred Keller,Republican,12,PA,rep,4212
+aclu/elections-api/congress_legislator:916,Lou Barletta,Republican,11,PA,rep,4211
+aclu/elections-api/congress_legislator:909,Bill Shuster,Republican,9,PA,rep,4209
+aclu/elections-api/congress_legislator:11581,Daniel Meuser,Republican,9,PA,rep,4209
+aclu/elections-api/congress_legislator:1048,Conor Lamb,Democrat,17,PA,rep,4217
+aclu/elections-api/congress_legislator:915,Lloyd Smucker,Republican,11,PA,rep,4211
+aclu/elections-api/congress_legislator:11583,John Joyce,Republican,13,PA,rep,4213
+aclu/elections-api/congress_legislator:911,Brian K. Fitzpatrick,Republican,1,PA,rep,4201
+aclu/elections-api/congress_legislator:923,Ryan A. Costello,Republican,6,PA,rep,4206
+aclu/elections-api/congress_legislator:914,Keith J. Rothfus,Republican,12,PA,rep,4212
+aclu/elections-api/congress_legislator:913,Glenn Thompson,Republican,15,PA,rep,4215
+aclu/elections-api/congress_legislator:11584,Madeleine Dean,Democrat,4,PA,rep,4204
+aclu/elections-api/congress_legislator:924,Scott Perry,Republican,10,PA,rep,4210
+aclu/elections-api/congress_legislator:921,Robert A. Brady,Democrat,1,PA,rep,4201
+aclu/elections-api/congress_legislator:11585,Mary Gay Scanlon,Democrat,5,PA,rep,4205
+aclu/elections-api/congress_legislator:912,Dwight Evans,Democrat,3,PA,rep,4203
+aclu/elections-api/congress_legislator:917,Matt Cartwright,Democrat,8,PA,rep,4208
+aclu/elections-api/congress_legislator:925,Tom Marino,Republican,10,PA,rep,4210
+aclu/elections-api/congress_legislator:910,Brendan F. Boyle,Democrat,2,PA,rep,4202
+aclu/elections-api/congress_legislator:11582,Guy Reschenthaler,Republican,14,PA,rep,4214
+aclu/elections-api/congress_legislator:919,Mike Kelly,Republican,16,PA,rep,4216
+aclu/elections-api/congress_legislator:11661,Deborah K. Ross,Democrat,2,NC,rep,3702
+aclu/elections-api/congress_legislator:813,Walter B. Jones,Republican,3,NC,rep,3703
+aclu/elections-api/congress_legislator:11662,Kathy E. Manning,Democrat,6,NC,rep,3706
+aclu/elections-api/congress_legislator:808,Richard Hudson,Republican,8,NC,rep,3708
+aclu/elections-api/congress_legislator:805,Mark Walker,Republican,6,NC,rep,3706
+aclu/elections-api/congress_legislator:802,G. K. Butterfield,Democrat,1,NC,rep,3701
+aclu/elections-api/congress_legislator:804,Mark Meadows,Republican,11,NC,rep,3711
+aclu/elections-api/congress_legislator:809,Robert Pittenger,Republican,9,NC,rep,3709
+aclu/elections-api/congress_legislator:799,Alma S. Adams,Democrat,12,NC,rep,3712
+aclu/elections-api/congress_legislator:803,George Holding,Republican,2,NC,rep,3702
+aclu/elections-api/congress_legislator:810,Ted Budd,Republican,13,NC,rep,3713
+aclu/elections-api/congress_legislator:11660,Madison Cawthorn,Republican,11,NC,rep,3711
+aclu/elections-api/congress_legislator:812,Virginia Foxx,Republican,5,NC,rep,3705
+aclu/elections-api/congress_legislator:806,Patrick T. McHenry,Republican,10,NC,rep,3710
+aclu/elections-api/congress_legislator:801,David Rouzer,Republican,7,NC,rep,3707
+aclu/elections-api/congress_legislator:11614,Gregory F. Murphy,Republican,3,NC,rep,3703
+aclu/elections-api/congress_legislator:800,David E. Price,Democrat,4,NC,rep,3704
+aclu/elections-api/congress_legislator:11613,Dan Bishop,Republican,9,NC,rep,3709
+aclu/elections-api/congress_legislator:11562,Kelly Armstrong,Republican,0,ND,rep,3800
+aclu/elections-api/congress_legislator:842,Michelle Lujan Grisham,Democrat,1,NM,rep,3501
+aclu/elections-api/congress_legislator:11569,Xochitl Torres Small,Democrat,2,NM,rep,3502
+aclu/elections-api/congress_legislator:11664,Yvette Herrell,Republican,2,NM,rep,3502
+aclu/elections-api/congress_legislator:843,Stevan Pearce,Republican,2,NM,rep,3502
+aclu/elections-api/congress_legislator:11663,Teresa Leger Fernandez,Democrat,3,NM,rep,3503
+aclu/elections-api/congress_legislator:11568,Debra A. Haaland,Democrat,1,NM,rep,3501
+aclu/elections-api/congress_legislator:829,Christopher H. Smith,Republican,4,NJ,rep,3404
+aclu/elections-api/congress_legislator:839,Thomas MacArthur,Republican,3,NJ,rep,3403
+aclu/elections-api/congress_legislator:11567,Tom Malinowski,Democrat,7,NJ,rep,3407
+aclu/elections-api/congress_legislator:11564,Andy Kim,Democrat,3,NJ,rep,3403
+aclu/elections-api/congress_legislator:826,Albio Sires,Democrat,8,NJ,rep,3408
+aclu/elections-api/congress_legislator:833,Frank A. LoBiondo,Republican,2,NJ,rep,3402
+aclu/elections-api/congress_legislator:838,Rodney P. Frelinghuysen,Republican,11,NJ,rep,3411
+aclu/elections-api/congress_legislator:832,"Donald M. Payne, Jr.",Democrat,10,NJ,rep,3410
+aclu/elections-api/congress_legislator:11566,Mikie Sherrill,Democrat,11,NJ,rep,3411
+aclu/elections-api/congress_legislator:834,"Frank Pallone, Jr.",Democrat,6,NJ,rep,3406
+aclu/elections-api/congress_legislator:835,Josh Gottheimer,Democrat,5,NJ,rep,3405
+aclu/elections-api/congress_legislator:827,"Bill Pascrell, Jr.",Democrat,9,NJ,rep,3409
+aclu/elections-api/congress_legislator:836,Leonard Lance,Republican,7,NJ,rep,3407
+aclu/elections-api/congress_legislator:828,Bonnie Watson Coleman,Democrat,12,NJ,rep,3412
+aclu/elections-api/congress_legislator:831,Donald Norcross,Democrat,1,NJ,rep,3401
+aclu/elections-api/congress_legislator:11565,Jefferson Van Drew,Republican,2,NJ,rep,3402
+aclu/elections-api/congress_legislator:755,Chellie Pingree,Democrat,1,ME,rep,2301
+aclu/elections-api/congress_legislator:754,Bruce Poliquin,Republican,2,ME,rep,2302
+aclu/elections-api/congress_legislator:11550,Jared F. Golden,Democrat,2,ME,rep,2302
+aclu/elections-api/congress_legislator:791,Gregorio Kilili Camacho Sablan,Democrat,0,MP,rep,6900
+aclu/elections-api/congress_legislator:532,Steve Womack,Republican,3,AR,rep,0503
+aclu/elections-api/congress_legislator:530,J. Hill,Republican,2,AR,rep,0502
+aclu/elections-api/congress_legislator:529,"Eric A. ""Rick"" Crawford",Republican,1,AR,rep,0501
+aclu/elections-api/congress_legislator:528,Bruce Westerman,Republican,4,AR,rep,0504
+aclu/elections-api/congress_legislator:847,Dina Titus,Democrat,1,NV,rep,3201
+aclu/elections-api/congress_legislator:850,Ruben J. Kihuen,Democrat,4,NV,rep,3204
+aclu/elections-api/congress_legislator:11571,Susie Lee,Democrat,3,NV,rep,3203
+aclu/elections-api/congress_legislator:849,Mark E. Amodei,Republican,2,NV,rep,3202
+aclu/elections-api/congress_legislator:11570,Steven Horsford,Democrat,4,NV,rep,3204
+aclu/elections-api/congress_legislator:616,Eleanor Holmes Norton,Democrat,0,DC,rep,1100
+aclu/elections-api/congress_legislator:743,Andy Harris,Republican,1,MD,rep,2401
+aclu/elections-api/congress_legislator:750,John K. Delaney,Democrat,6,MD,rep,2406
+aclu/elections-api/congress_legislator:746,C. A. Dutch Ruppersberger,Democrat,2,MD,rep,2402
+aclu/elections-api/congress_legislator:748,Elijah E. Cummings,Democrat,7,MD,rep,2407
+aclu/elections-api/congress_legislator:11549,David J. Trone,Democrat,6,MD,rep,2406
+aclu/elections-api/congress_legislator:752,Steny H. Hoyer,Democrat,5,MD,rep,2405
+aclu/elections-api/congress_legislator:751,John P. Sarbanes,Democrat,3,MD,rep,2403
+aclu/elections-api/congress_legislator:749,Jamie Raskin,Democrat,8,MD,rep,2408
+aclu/elections-api/congress_legislator:11618,Kweisi Mfume,Democrat,7,MD,rep,2407
+aclu/elections-api/congress_legislator:744,Anthony Brown,Democrat,4,MD,rep,2404
+aclu/elections-api/congress_legislator:11546,Steve Watkins,Republican,2,KS,rep,2002
+aclu/elections-api/congress_legislator:11545,Sharice Davids,Democrat,3,KS,rep,2003
+aclu/elections-api/congress_legislator:11652,Jake LaTurner,Republican,2,KS,rep,2002
+aclu/elections-api/congress_legislator:711,Kevin Yoder,Republican,3,KS,rep,2003
+aclu/elections-api/congress_legislator:11653,Tracey Mann,Republican,1,KS,rep,2001
+aclu/elections-api/congress_legislator:712,Lynn Jenkins,Republican,2,KS,rep,2002
+aclu/elections-api/congress_legislator:715,Ron Estes,Republican,4,KS,rep,2004
+aclu/elections-api/congress_legislator:820,Don Bacon,Republican,2,NE,rep,3102
+aclu/elections-api/congress_legislator:821,Jeff Fortenberry,Republican,1,NE,rep,3101
+aclu/elections-api/congress_legislator:817,Adrian Smith,Republican,3,NE,rep,3103
+aclu/elections-api/congress_legislator:666,Colleen Hanabusa,Democrat,1,HI,rep,1501
+aclu/elections-api/congress_legislator:668,Tulsi Gabbard,Democrat,2,HI,rep,1502
+aclu/elections-api/congress_legislator:11644,Kaiali’i Kahele,Democrat,2,HI,rep,1502
+aclu/elections-api/congress_legislator:11535,Ed Case,Democrat,1,HI,rep,1501
+aclu/elections-api/congress_legislator:618,Lisa Blunt Rochester,Democrat,0,DE,rep,1000
+aclu/elections-api/congress_legislator:534,Aumua Amata Coleman Radewagen,Republican,0,AS,rep,6000
+aclu/elections-api/congress_legislator:542,Raúl M. Grijalva,Democrat,3,AZ,rep,0403
+aclu/elections-api/congress_legislator:535,Andy Biggs,Republican,5,AZ,rep,0405
+aclu/elections-api/congress_legislator:544,Tom O’Halleran,Democrat,1,AZ,rep,0401
+aclu/elections-api/congress_legislator:536,David Schweikert,Republican,6,AZ,rep,0406
+aclu/elections-api/congress_legislator:543,Ruben Gallego,Democrat,7,AZ,rep,0407
+aclu/elections-api/congress_legislator:1043,Debbie Lesko,Republican,8,AZ,rep,0408
+aclu/elections-api/congress_legislator:541,Paul A. Gosar,Republican,4,AZ,rep,0404
+aclu/elections-api/congress_legislator:11516,Greg Stanton,Democrat,9,AZ,rep,0409
+aclu/elections-api/congress_legislator:11515,Ann Kirkpatrick,Democrat,2,AZ,rep,0402
+aclu/elections-api/congress_legislator:11669,Ritchie Torres,Democrat,15,NY,rep,3615
+aclu/elections-api/congress_legislator:874,Peter T. King,Republican,2,NY,rep,3602
+aclu/elections-api/congress_legislator:859,Elise M. Stefanik,Republican,21,NY,rep,3621
+aclu/elections-api/congress_legislator:853,Carolyn B. Maloney,Democrat,12,NY,rep,3612
+aclu/elections-api/congress_legislator:877,Tom Reed,Republican,23,NY,rep,3623
+aclu/elections-api/congress_legislator:862,Hakeem S. Jeffries,Democrat,8,NY,rep,3608
+aclu/elections-api/congress_legislator:857,"Daniel M. Donovan, Jr.",Republican,11,NY,rep,3611
+aclu/elections-api/congress_legislator:878,Yvette D. Clarke,Democrat,9,NY,rep,3609
+aclu/elections-api/congress_legislator:870,Lee M. Zeldin,Republican,1,NY,rep,3601
+aclu/elections-api/congress_legislator:11667,Mondaire Jones,Democrat,17,NY,rep,3617
+aclu/elections-api/congress_legislator:872,Nydia M. Velázquez,Democrat,7,NY,rep,3607
+aclu/elections-api/congress_legislator:876,Thomas R. Suozzi,Democrat,3,NY,rep,3603
+aclu/elections-api/congress_legislator:863,Jerrold Nadler,Democrat,10,NY,rep,3610
+aclu/elections-api/congress_legislator:868,Kathleen M. Rice,Democrat,4,NY,rep,3604
+aclu/elections-api/congress_legislator:11572,Alexandria Ocasio-Cortez,Democrat,14,NY,rep,3614
+aclu/elections-api/congress_legislator:11574,Antonio Delgado,Democrat,19,NY,rep,3619
+aclu/elections-api/congress_legislator:11576,Max Rose,Democrat,11,NY,rep,3611
+aclu/elections-api/congress_legislator:875,Sean Patrick Maloney,Democrat,18,NY,rep,3618
+aclu/elections-api/congress_legislator:856,Claudia Tenney,Republican,22,NY,rep,3622
+aclu/elections-api/congress_legislator:11620,Chris Jacobs,Republican,27,NY,rep,3627
+aclu/elections-api/congress_legislator:851,Adriano Espaillat,Democrat,13,NY,rep,3613
+aclu/elections-api/congress_legislator:865,John Katko,Republican,24,NY,rep,3624
+aclu/elections-api/congress_legislator:11668,Nicole Malliotakis,Republican,11,NY,rep,3611
+aclu/elections-api/congress_legislator:11666,Jamaal Bowman,Democrat,16,NY,rep,3616
+aclu/elections-api/congress_legislator:873,Paul Tonko,Democrat,20,NY,rep,3620
+aclu/elections-api/congress_legislator:866,José E. Serrano,Democrat,15,NY,rep,3615
+aclu/elections-api/congress_legislator:852,Brian Higgins,Democrat,26,NY,rep,3626
+aclu/elections-api/congress_legislator:861,Gregory W. Meeks,Democrat,5,NY,rep,3605
+aclu/elections-api/congress_legislator:871,Nita M. Lowey,Democrat,17,NY,rep,3617
+aclu/elections-api/congress_legislator:858,Eliot L. Engel,Democrat,16,NY,rep,3616
+aclu/elections-api/congress_legislator:860,Grace Meng,Democrat,6,NY,rep,3606
+aclu/elections-api/congress_legislator:867,Joseph Crowley,Democrat,14,NY,rep,3614
+aclu/elections-api/congress_legislator:11573,Anthony Brindisi,Democrat,22,NY,rep,3622
+aclu/elections-api/congress_legislator:855,Chris Collins,Republican,27,NY,rep,3627
+aclu/elections-api/congress_legislator:864,John J. Faso,Republican,19,NY,rep,3619
+aclu/elections-api/congress_legislator:11575,Joseph D. Morelle,Democrat,25,NY,rep,3625
+aclu/elections-api/congress_legislator:11665,Andrew R. Garbarino,Republican,2,NY,rep,3602
+aclu/elections-api/congress_legislator:677,Michael K. Simpson,Republican,2,ID,rep,1602
+aclu/elections-api/congress_legislator:678,Raúl R. Labrador,Republican,1,ID,rep,1601
+aclu/elections-api/congress_legislator:11538,Russ Fulcher,Republican,1,ID,rep,1601
+aclu/elections-api/congress_legislator:886,Marcia L. Fudge,Democrat,11,OH,rep,3911
+aclu/elections-api/congress_legislator:883,James B. Renacci,Republican,16,OH,rep,3916
+aclu/elections-api/congress_legislator:888,Michael R. Turner,Republican,10,OH,rep,3910
+aclu/elections-api/congress_legislator:11514,Troy Balderson,Republican,12,OH,rep,3912
+aclu/elections-api/congress_legislator:889,Robert E. Latta,Republican,5,OH,rep,3905
+aclu/elections-api/congress_legislator:881,Brad R. Wenstrup,Republican,2,OH,rep,3902
+aclu/elections-api/congress_legislator:882,David P. Joyce,Republican,14,OH,rep,3914
+aclu/elections-api/congress_legislator:893,Steve Stivers,Republican,15,OH,rep,3915
+aclu/elections-api/congress_legislator:884,Jim Jordan,Republican,4,OH,rep,3904
+aclu/elections-api/congress_legislator:885,Joyce Beatty,Democrat,3,OH,rep,3903
+aclu/elections-api/congress_legislator:879,Bill Johnson,Republican,6,OH,rep,3906
+aclu/elections-api/congress_legislator:887,Marcy Kaptur,Democrat,9,OH,rep,3909
+aclu/elections-api/congress_legislator:11577,Anthony Gonzalez,Republican,16,OH,rep,3916
+aclu/elections-api/congress_legislator:880,Bob Gibbs,Republican,7,OH,rep,3907
+aclu/elections-api/congress_legislator:892,Steve Chabot,Republican,1,OH,rep,3901
+aclu/elections-api/congress_legislator:894,Tim Ryan,Democrat,13,OH,rep,3913
+aclu/elections-api/congress_legislator:895,Warren Davidson,Republican,8,OH,rep,3908
+aclu/elections-api/congress_legislator:908,Suzanne Bonamici,Democrat,1,OR,rep,4101
+aclu/elections-api/congress_legislator:903,Greg Walden,Republican,2,OR,rep,4102
+aclu/elections-api/congress_legislator:11671,Cliff Bentz,Republican,2,OR,rep,4102
+aclu/elections-api/congress_legislator:905,Kurt Schrader,Democrat,5,OR,rep,4105
+aclu/elections-api/congress_legislator:902,Earl Blumenauer,Democrat,3,OR,rep,4103
+aclu/elections-api/congress_legislator:906,Peter A. DeFazio,Democrat,4,OR,rep,4104
+aclu/elections-api/congress_legislator:692,Peter J. Roskam,Republican,6,IL,rep,1706
+aclu/elections-api/congress_legislator:682,Bradley Scott Schneider,Democrat,10,IL,rep,1710
+aclu/elections-api/congress_legislator:693,Raja Krishnamoorthi,Democrat,8,IL,rep,1708
+aclu/elections-api/congress_legislator:11649,Mary E. Miller,Republican,15,IL,rep,1715
+aclu/elections-api/congress_legislator:696,Robin L. Kelly,Democrat,2,IL,rep,1702
+aclu/elections-api/congress_legislator:679,Adam Kinzinger,Republican,16,IL,rep,1716
+aclu/elections-api/congress_legislator:694,Randy Hultgren,Republican,14,IL,rep,1714
+aclu/elections-api/congress_legislator:683,Cheri Bustos,Democrat,17,IL,rep,1717
+aclu/elections-api/congress_legislator:691,Mike Quigley,Democrat,5,IL,rep,1705
+aclu/elections-api/congress_legislator:11539,"Jesús G. ""Chuy"" García",Democrat,4,IL,rep,1704
+aclu/elections-api/congress_legislator:686,Darin LaHood,Republican,18,IL,rep,1718
+aclu/elections-api/congress_legislator:681,Bobby L. Rush,Democrat,1,IL,rep,1701
+aclu/elections-api/congress_legislator:689,Luis V. Gutiérrez,Democrat,4,IL,rep,1704
+aclu/elections-api/congress_legislator:684,Daniel Lipinski,Democrat,3,IL,rep,1703
+aclu/elections-api/congress_legislator:690,Mike Bost,Republican,12,IL,rep,1712
+aclu/elections-api/congress_legislator:11540,Lauren Underwood,Democrat,14,IL,rep,1714
+aclu/elections-api/congress_legislator:11648,Marie Newman,Democrat,3,IL,rep,1703
+aclu/elections-api/congress_legislator:680,Bill Foster,Democrat,11,IL,rep,1711
+aclu/elections-api/congress_legislator:11541,Sean Casten,Democrat,6,IL,rep,1706
+aclu/elections-api/congress_legislator:688,John Shimkus,Republican,15,IL,rep,1715
+aclu/elections-api/congress_legislator:697,Rodney Davis,Republican,13,IL,rep,1713
+aclu/elections-api/congress_legislator:687,Janice D. Schakowsky,Democrat,9,IL,rep,1709
+aclu/elections-api/congress_legislator:685,Danny K. Davis,Democrat,7,IL,rep,1707
+aclu/elections-api/congress_legislator:731,Steve Scalise,Republican,1,LA,rep,2201
+aclu/elections-api/congress_legislator:730,Ralph Lee Abraham,Republican,5,LA,rep,2205
+aclu/elections-api/congress_legislator:725,Cedric L. Richmond,Democrat,2,LA,rep,2202
+aclu/elections-api/congress_legislator:726,Clay Higgins,Republican,3,LA,rep,2203
+aclu/elections-api/congress_legislator:729,Mike Johnson,Republican,4,LA,rep,2204
+aclu/elections-api/congress_legislator:727,Garret Graves,Republican,6,LA,rep,2206
+aclu/elections-api/congress_legislator:1027,Gwen Moore,Democrat,4,WI,rep,5504
+aclu/elections-api/congress_legislator:11619,Thomas P. Tiffany,Republican,7,WI,rep,5507
+aclu/elections-api/congress_legislator:1030,Paul D. Ryan,Republican,1,WI,rep,5501
+aclu/elections-api/congress_legislator:11610,Bryan Steil,Republican,1,WI,rep,5501
+aclu/elections-api/congress_legislator:1025,"F. James Sensenbrenner, Jr.",Republican,5,WI,rep,5505
+aclu/elections-api/congress_legislator:1028,Mark Pocan,Democrat,2,WI,rep,5502
+aclu/elections-api/congress_legislator:1029,Mike Gallagher,Republican,8,WI,rep,5508
+aclu/elections-api/congress_legislator:11685,Scott Fitzgerald,Republican,5,WI,rep,5505
+aclu/elections-api/congress_legislator:1032,Ron Kind,Democrat,3,WI,rep,5503
+aclu/elections-api/congress_legislator:1026,Glenn Grothman,Republican,6,WI,rep,5506
+aclu/elections-api/congress_legislator:1033,Sean P. Duffy,Republican,7,WI,rep,5507
+aclu/elections-api/congress_legislator:1014,Cathy McMorris Rodgers,Republican,5,WA,rep,5305
+aclu/elections-api/congress_legislator:1015,Dan Newhouse,Republican,4,WA,rep,5304
+aclu/elections-api/congress_legislator:1019,Jaime Herrera Beutler,Republican,3,WA,rep,5303
+aclu/elections-api/congress_legislator:1023,Rick Larsen,Democrat,2,WA,rep,5302
+aclu/elections-api/congress_legislator:1024,Suzan K. DelBene,Democrat,1,WA,rep,5301
+aclu/elections-api/congress_legislator:11609,Kim Schrier,Democrat,8,WA,rep,5308
+aclu/elections-api/congress_legislator:1016,David G. Reichert,Republican,8,WA,rep,5308
+aclu/elections-api/congress_legislator:1017,Denny Heck,Democrat,10,WA,rep,5310
+aclu/elections-api/congress_legislator:11684,Marilyn Strickland,Democrat,10,WA,rep,5310
+aclu/elections-api/congress_legislator:1022,Pramila Jayapal,Democrat,7,WA,rep,5307
+aclu/elections-api/congress_legislator:1013,Adam Smith,Democrat,9,WA,rep,5309
+aclu/elections-api/congress_legislator:1018,Derek Kilmer,Democrat,6,WA,rep,5306
+aclu/elections-api/congress_legislator:11590,John Rose,Republican,6,TN,rep,4706
+aclu/elections-api/congress_legislator:945,David Kustoff,Republican,8,TN,rep,4708
+aclu/elections-api/congress_legislator:11674,Diana Harshbarger,Republican,1,TN,rep,4701
+aclu/elections-api/congress_legislator:944,"Charles J. ""Chuck"" Fleischmann",Republican,3,TN,rep,4703
+aclu/elections-api/congress_legislator:11591,Mark E. Green,Republican,7,TN,rep,4707
+aclu/elections-api/congress_legislator:11592,Tim Burchett,Republican,2,TN,rep,4702
+aclu/elections-api/congress_legislator:953,Steve Cohen,Democrat,9,TN,rep,4709
+aclu/elections-api/congress_legislator:949,"John J. Duncan, Jr.",Republican,2,TN,rep,4702
+aclu/elections-api/congress_legislator:946,David P. Roe,Republican,1,TN,rep,4701
+aclu/elections-api/congress_legislator:947,Diane Black,Republican,6,TN,rep,4706
+aclu/elections-api/congress_legislator:952,Scott DesJarlais,Republican,4,TN,rep,4704
+aclu/elections-api/congress_legislator:948,Jim Cooper,Democrat,5,TN,rep,4705
