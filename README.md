@@ -1,6 +1,8 @@
 # Open Electee Network
 The Open Electree Network makes connections between electees and geo locations, like state, county, city, zip code, and address.
 
+![district overlap](assets/overlapping.png)
+
 
 ### Applications of this network
 1. Know your representatives
