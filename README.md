@@ -12,3 +12,7 @@ To get your voice heard, you need to know who represent you and whom you can ele
 2. Know your pressure channels
 
 You can build coalition of state legislators within targeted House Members' Congressional Districts. 
+
+### Acknowledgement
+- open states
+- aclu elections api
