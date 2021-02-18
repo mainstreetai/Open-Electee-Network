@@ -1,4 +1,5 @@
-# Open Electee Network
+![oen](assets/oen.png)
+
 The Open Electree Network makes connections between electees and geo locations, like state, county, city, zip code, and address.
 
 ![district overlap](assets/overlapping.png)
@@ -14,7 +15,7 @@ The Open Electree Network makes connections between electees and geo locations, 
 
 This dataset contains U.S. Congress and State legislature memeber information, including geomapping data and how they overlap with each other. 
 
-2. (more to come)
+(more to come)
 
 ----
 
